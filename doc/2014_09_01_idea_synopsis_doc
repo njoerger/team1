@@ -1,0 +1,58 @@
+**NOTE: The ideas and notes documented here have been done so retroactively as of the 9/9/2014 **
+
+**Also, this sort of documentation might be a bit informal for now. I'll formalize it a bit more as needed.**
+
+
+
+
+Project Summary: A GrubHub-like service associated with RIT Dining Services. We'll come up with a name later
+
+
+
+
+We needed to define a need/problem.
+
+At first, parking-related issues drew our attention. There is room for an app/webpage that can give students parking-related
+information. Perhaps a map interface with color codes could be utilized to better visually inform the user on the lots closest to
+their destination. Lot capacity can be monitored somewhow and alerts can be used to inform the user if a lot holds few or 
+no parking spaces.
+
+Dining-related issues on campus were also talked about--wait times considered the most problematic. Being in Golisano, we 
+naturally gravitated towards the especially long lines at CtrlAltDeli...One thing led to another and we all settled on an 
+"in-advance ordering system."
+
+
+
+
+Generally speaking, our project will most likely be a web-based service allowing RIT students to find an on-campus spot nearest
+to them and order in advance with their selected meal provider. Arriving at their destination, they find themselves greeted
+with the food queued up earlier.
+
+The primary target is freshmen, whom rely on the meal plans the most. To a lesser extent, we're targeting upperclassmen as well. 
+
+
+
+
+
+The project brings some things into question:
+
+Can all meal-providers utilize this system? Sol's Underground and CtrlAltDeli lack workforce to handle large loads, but locations
+like Gracies lack the structure/tools. Scaling seems to be an issue here.
+
+How do the workers on the other end queue the orders properly? Things will probably be automated, but will it be a sort of
+'first come first serve' deal or will it be calculated based some algorithm using the student's relative distance? How much power
+will the student have with regards to his place in the queue?
+
+How does a student identify himself? Most likely though UID or standard RIT user login.
+
+Color coded maps? Yes. We'll probably carry that over from our initial parking-related idea.
+
+Barnes and Noble? Maybe?
+
+Credit/Debit/Tiger Bucks functionality? This will probably be a matter of security.
+
+
+
+
+Generally the project has to be easy to use for both the customer and the meal providers. After all, the project can't catch 
+fire if it proves to cumbersome for Dining Services.
