@@ -1,0 +1,84 @@
+Huerstic
+	look at competitior products to our own
+		individually
+	evaluate according to heurisitic list
+		definte severity
+	
+	must be functionally similar but different for each member
+	useful for find problems or features to add
+		will feed into end documentation
+	rewrite is not regraded
+
+	EX:Wegmans curbside pickup
+
+Video 
+	based on behavioral psych
+		be specific pick one topic
+
+	kellner	
+
+Task Analysis
+	technique
+	List tasks to be carried out
+		what are the "have to have" which are important, which are low level
+	Lists actions user carries out in performing a task
+		what does a user do to do a task related to our application
+			how to order food
+			how do order food/search
+	Things user does, acts upon, needs to know to copmlete the task
+	focus on the user
+	Focus on interaction that user has with the system
+
+What is a task analysis?
+	An Analysis of how typical users perform a specific task
+	What is  a hierarical task analysis (HTA)?
+		a top to bottom task analysius that shows how the tasks are related
+	list tasks to be carried out
+	lists actions user carries out in performing a task
+	things user does, acts upon or needs to know
+
+	Display the results
+		idented list (preferred for this class)
+		flow chart
+What is task analysis good for?
+	improves design of tools or procedures used to accomplish goal
+	making predictions how long a goal will take to accomplish
+	spotting potential errors in the procedure
+	spotting ui features that have been ov erlooked or oversimplified
+
+Source of data
+	Documentation about the task
+		how has the task been done historically
+		with other applications
+		observe people /debrief after
+	Observation
+		talk through the process
+			how did you know to click or save at this point
+	Talk to people
+
+Data Collection
+	Gather the information about the task
+	organize the information into categories
+	many ways to organize and model tasks
+
+use of flow chart (color, symbols, decision tools)
+
+HTA is used to 
+	task decomposition
+	split into subtasks - subdivision no longer needed
+	plans to describe order and conditions
+		if then, or and,
+	text and diagram
+
+Plans
+	explanation for each step
+		fixed sequence -parts always done
+		choice
+		waiting for events
+		cycles - repetion
+		time-sharing -done at same time
+		discreationary
+		usually a mixture
+	Start and stop
+
+NEED TO DECOMPOSE A TASK FOR OUR PRODUCT

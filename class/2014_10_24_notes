@@ -1,0 +1,51 @@
+Reasoning and problem solving
+	studies reveal that people are often not very logical about the decisions they make
+	Deductive reasoing
+		top down, start with theory about situation
+	Inductive: Bottom up
+		derive likely general hypothesis from pattern of specific observations
+	
+	Confirmation bias and selective thinking
+		Selective thinking is the process whereby one selects out favorable evidence for remembrance and foxus wile ignoring unfavorable evidence for a belief
+	Framing effect
+		positive framining effects ( associated with risk aversion) result from presenation of options as sure (or absolute gains)
+		negative framing effects (associated with a preference shift toward choosing riskier options) result from options presented as the relative likelihood of losses
+	Decision making
+		normative decision models -optimal, rational
+			concerned with identifying the best decision to take
+				assuming an ideal decision maker
+				who is fully informed
+				able to compute with perfect acuracy
+				and fully rational
+		satisficing-find acceptable alternative given limited time and cognitive capacity
+			decide on and pursue a course of action satisfying the minimum requirements to achieve a goal
+		heuristics -efficient, but potentially biased rules for decision-making
+		naturalistic -decision making
+
+Mental Models -- Gulf of evaluation --how do you move someone to different types of models
+	Class Exercise:
+		the rooster is to the rightt of the microphone
+		the fuit is to the right of the rooster
+		the child is in front of the fruit
+		the pig is in front of the microphone
+
+		Is the pig to the right or left of the child
+	M	R	F
+	P		C
+
+Rule-based Reasoning
+	Heuristic = rule of thumb to avoid long decision-making process
+		availability
+		anchoring - inital thoughts --> final decision
+		representativeness - sterotype
+		hill climbing - decisions move closer to goal
+		problem reduction/decomposition
+		used in artifical intelligence programming
+	when using heuristics
+		attending to limited number of cues
+		emphasize first cues and most salient cues
+		inattention to later cues
+		assume equal reliability of cues
+		fixating on initial hypothesis and feeback
+
+Avaliability Heuristic

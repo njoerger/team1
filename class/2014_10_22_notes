@@ -1,0 +1,88 @@
+Designing for sneses
+	1. Audio
+	2. Visual
+	3. Tactile (pressure, ibration, pain, etc.)
+	4. smell
+	5. Taste
+
+Audio
+	A primary snsory input channel for humans
+	benefit of auditory displays is they do not require user's visual attention to ocnvey signal
+	deafness is considered more dibilitation than blindness, with hearing goes the primary communication channel
+	20% of American workers have significant hearing loss
+	common errors in sound localization are front-back reversals. with sound source equidistant from two ears. Inter-aural cues are elminated
+	Humans not good at localizing ery low frequencies. Some stereos only have  one woofer
+	shape of pinna acts as a comb filter for sounds arriving from certain directions. Used in auditory VR - sounds recorded with microphones embeedded in ear forms
+	Ambulance sirens use a sombination of alternating high and low frequencies and abrupt on-set and of the signal to capitalize on a ll of the available space localization cues
+
+Visual
+	depth cues
+		monocular
+			relative size
+			linear perspective
+			interposition/occulsion
+			texture gradient
+				shading with bluish tint and haziness of more objects
+			shading
+				
+			height in field
+			aerial perspective
+		Bioncular disparity
+		motion parallax
+Touch
+	Cutaneous
+		temperature
+		pressure
+		vibration
+		pain
+		itch
+	Muscles & Tendons
+		kinesthesia - sense of limb movement
+		proprioception -sense of joint position (stretch, tension)
+	Hands and mouth have most control for most people
+
+Cutaneous Senses
+	Pressure, pain, temperature, vibrations
+		useful for not needing to see or feel it
+Vestibular Sense
+	apparent motion can be an effective alerting signal
+	mis-matching between vestibular sense and vision --> motion sickness
+	boat or plan
+		vision: still (with respect to cabin walls)
+			moving
+	simulator
+		vision: moving (with respect to virtual world)
+		still
+Kinesthesia and proprioception
+	receptors in the joints, muscle tendons and in the skin
+	critical for motor control and also plays an important role in feedback from mechanical systems
+Taste and Smell
+	closesly related
+	much of teaste is actually smell
+		seems like you cant taste when nose is congested
+	rarely used in UI design
+	methyylmercaptan ---additive to natural gass
+
+
+
+Attention Sensing and Perception
+	parallel search
+	Perceptual conspicuity
+	cognitive conspicuity / expectation
+	capacity/ workload/interference
+
+Unattened Information sneaking
+	dihoctic 
+
+	Automaticity
+		no attentional resoures needed
+		over-learned activities (consitent relationship between stimuli and response)
+		doesnt interfere with other activities
+		no conscious use
+
+		8
+		8
+		10
+
+		conceptual model of events allows us to classify them into those relevant and those not relevant, dramaticallysimplifying life: we attend t othe relevant and only monitor the ireelevant [subconsiciouly]
+

@@ -1,0 +1,74 @@
+Usability Goal Setting
+	Measure success
+		Usability Engineering 
+		measure satisfaction
+			remember how to do things
+			usability of the site
+		need to remember there will be bugs
+	Lifecycle (group user design)
+		Personas
+		Related to adoption and seeing/using product (critical mass)
+
+		Identify the end user/tendencies
+		think of frequency of use
+	We are focused on Requirements Analysis
+		Persona
+		Contextual Task Anaylsis
+		Platform capabilities and constraints
+		General Principles Design
+
+		for whom, where and how, design and use?
+	
+	What defines success
+		that is what you test with usability testing
+		Feedback loop
+	Scope of goals
+		revolutionary
+		iterative
+	Usability goals
+		Makes you design for those specific goals so that they show
+		foucs time, money, goals
+
+		Components of good usability goal
+			Customer/user characteristics
+				Who is user (Profile -->Personas)
+			Tasks
+				anaylsis
+					atomic or composite
+					relevant to customer's task
+					new concepts or mechanisms
+					critical features or mechanisms
+			Metric
+				MEASURABLE results
+					errors
+					interventions
+					time
+					reference used
+					precentage completed
+					indirect paths taken
+					staisfaction
+						Likert scale
+					preference
+						ask
+				Benchmarks
+					current level
+					minimum acceptable level
+					target level
+					optimal level
+			Acceptance criteria
+				Select acceptance criteria
+					bounds for the metric
+					Number or percentage 
+
+		Acceptance criteria to release: 75% of people were able to find information within metric
+		Nice to have accepatance: criteria at XX% can find the information
+
+		Priority Definitions
+			how important is it to the final system
+				critical, required, depends on cost, desirable
+
+
+Final product
+	Need to have quanity on hand
+	NEED FOUR FEATURES
+	Add an ETA (minimum of 10 minutes as a require)
