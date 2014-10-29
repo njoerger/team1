@@ -1,0 +1,52 @@
+Desiging for universal, Global cultural differences
+	How fluent is your interface? Will it work across cultures?
+
+	Preparing a product for another culture:
+		1. internationalization
+			Numbers: 1,234 vs 1.234
+			Dates: 10/27/2014 27/10/2014
+			Currency: dollar pound
+		2. localization/translation
+	Elements to consider
+		Text/ character set
+		number/date/time formats
+		images
+		symbols
+		colors
+		flow
+		functionality
+	Guidelines for global products
+		up front:
+			determine market scope
+			plan for global design
+			form relationships with target markets
+		During Dev.
+			provide space for translation of text
+			avoid colloquialisms and slang
+			avoid culture-specific icons
+			avoid text in icons and graphics
+
+	Language Access
+	color codes are not universal
+	Geo-political differences
+	Culture-specific icons
+	Universal Design -definition
+		simply life for everyone
+
+		equitable use
+			the design is useful and marketable to people with diverse abilities and does not disadvantage or stigmatize any group of users
+		flexibility in use
+			the design accommodates a wide rnage of individual preferences and abilities
+		simple and intuitive
+			use of the design
+		perceptible information tolerance for error
+			the design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory ability
+		Tolerance for error
+			the design minimizes hazards and the adverse consequences of accidental or unitended actions
+		low physical effort
+			the design can be used efficiently and comfortably and with a minimum of fatigue
+		size and space for approach and use
+			appropriate siz and space is provided for approach, reach, manipulation and use regardless of user's body size, posture or mobility
+		design with help with disabilities
+			curb cuts
+
