@@ -51,7 +51,7 @@ function populate() {
                                                     <div class = 'name'>" +  sizes[k].innerHTML + "</div>\
                                                     <div class = 'price'>" + prices[k].innerHTML + "</div>\
                                                     <div class = 'quantity'>\
-                                                        <input type='input' name='quantity' id='quantity' style = 'width:60px'>\
+														<input type='number' name='quantity' id='quantity' style = 'width:60px' max = "100" min ="0" step="1" required pattern="/\d+/">\
                                                     </div></div>";
                    
                 }
@@ -78,7 +78,7 @@ function populate() {
                 window.document.getElementById("all_orderables").innerHTML += "<div class = 'row'>\
                                                         <div class 'price'>" + price.data + "</div>\
                                                          <div class 'quantity'>\
-                                                            <input type='input' name='quantity' id='quantity' style = 'width:60px'>\
+														<input type='number' name='quantity' id='quantity' style = 'width:60px' max = "100" min ="0" step="1" required pattern="/\d+/">\
                                                                 per ." + unit.data + "\
                                                          </div></div>";
             }
@@ -100,7 +100,8 @@ function populate() {
                 window.document.getElementById("all_orderables").innerHTML += "<div class = 'row'>\
                                                             <div class = 'price'>" + price.data + "</div>\
                                                             <div class = 'quantity'>\
-                                                                <input type='input' name='quantity' id='quantity' style = 'width:60px'>\                                                             </div></div>";
+																<input type='number' name='quantity' id='quantity' style = 'width:60px' max = "100" min ="0" step="1" required pattern="/\d+/">\
+															</div></div>";
             }
         }   
     }
