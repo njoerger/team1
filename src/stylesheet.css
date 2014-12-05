@@ -1,0 +1,279 @@
+﻿@import url("stylesheetTB.css");
+@import url("stylesheetSP.css");
+*{
+    margin:0;
+    padding:0;
+}
+body{
+	width:1920px;
+    font:18px sans-serif;
+    text-align:center;
+    margin:auto;
+}
+/*
+    Formatting the links
+    */
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration:underline;
+    background-color: #fb953c;
+}
+/*
+    The format for the header of the app
+*/
+#topF{
+	width:100%;
+    position:fixed;
+    background:#ff6a00;
+    height:100px;
+	z-index:5;
+}
+#topC{
+    padding:1px;
+    margin:auto;
+    text-align:center;
+}
+#topC > img{
+	padding-top:25px;	
+}
+/*
+    The format for the middle section of the app
+*/
+#middle{
+	width:100%;
+    height:100%;
+	display:block;
+	box-sizing:border-box;
+    position:relative;
+}
+#middle img{
+    margin-top:70px;
+    padding-top:150px;
+	padding-bottom:50px;
+	width:280px;
+	height:280px;
+}
+#middle p{
+    font-size:20px;
+    margin-top:20px;
+    padding:10px;
+}
+#middle ul{
+	padding:15px;	
+}
+#middle ul>li{
+	padding:15px;	
+	list-style-type:none;
+}
+.orderbutton{
+	padding-bottom:-20px;
+	margin:auto;
+	width:280px;
+	border:1px solid black;
+    border-radius:5px;
+    background:#ff6a00;	
+}
+/*
+    The format for the footer
+*/
+#bottom{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+    background:#ff6a00;
+    height:50px;
+}
+#bottom > p{
+	padding:15px;
+	font-size:14px;	
+}
+/*
+    The format for the item options for the order page
+*/
+#tableFormat{
+    text-align:left;
+    margin:auto;    
+    height:370px;
+    position:relative;
+}
+#tableFormat table{
+    width:320px;
+    padding-top:100px;   
+}
+#tableFormat th{
+    padding-bottom:5px;
+}
+#tableFormat td{
+    padding:5px;
+    padding-top:7px;
+}
+/*
+    The format for the back home button
+*/
+.back{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:50%;
+	margin-top:60px;
+	position:fixed;
+	border:1px solid black;
+	background:#ab500f;
+	left: 0px;
+	top: 40px;
+}
+/*
+    The format for the continue to cart button
+*/
+.forward{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:50%;
+	margin-top:60px;
+	position:fixed;
+	float:right;
+	border:1px solid black;
+	background:#ff6a00;
+	left: 41.5%;
+	top: 40px;
+}
+/*
+    The format for the delete item button
+*/
+.delete{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:50%;
+    margin-top:22px;
+    position:fixed;
+    border:1px solid black;
+    background:#ab500f;
+    left:0;
+    bottom:50px;
+}
+/*
+    The format for the add item button
+*/
+.add{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:50%;
+    margin-top:22px;
+    position:fixed;
+    border:1px solid black;
+    background:#ff6a00;
+    left:41.5%;
+    bottom:50px;
+}
+/*
+    Format for the back to cart button on the payment page
+    */
+.backC{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:50%;
+	margin-top:60px;
+	position:fixed;
+	border:1px solid black;
+	background:#ab500f;
+	left: 0px;
+	top: 40px;
+}
+/*
+    Format for the form and the payment page
+    */
+#loginFormat{
+    text-align:center;
+    margin:auto;    
+    height:370px;
+    position:relative;
+}
+#forms{
+    padding-top:200px;
+    padding-left:20px;
+}
+span{
+    display:inline-block;
+    font-weight:bold;
+    width:200px;
+}
+/*
+    Format for the proceed button on the confirm page
+    */
+.proceed{
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:50%;
+	margin-top:60px;
+	position:fixed;
+	float:right;
+	border:1px solid black;
+	background:#ff6a00;
+	left: 46%;
+	top: 40px;
+}
+}
+/*
+    the format for the orderNum page
+    */
+#orderFormat{
+	width:100%;
+    height:100%;
+	display:block;
+	box-sizing:border-box;
+    position:relative;
+}
+#orderFormat img{
+    margin-top:70px;
+    padding-top:150px;
+	padding-bottom:50px;
+    margin:auto;
+    padding-left:800px;
+	width:280px;
+	height:280px;
+}
+#orderFormat p{
+    margin:auto;
+    font-size:20px;
+    margin-top:20px;
+}
+/*
+    format for the edit the order button
+    */
+.edit{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:50%;
+    margin-top:22px;
+    position:fixed;
+    border:1px solid black;
+    background:#ab500f;
+    left:50%;
+    bottom:50px;
+}
+/*
+    The format for the make new order button
+*/
+.make{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:50%;
+    margin-top:22px;
+    position:fixed;
+    border:1px solid black;
+    background:#ff6a00;
+    left:92%;
+    bottom:50px;
+}
