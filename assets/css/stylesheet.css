@@ -1,0 +1,238 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font:14px sans-serif;
+    text-align:center;
+}
+/*
+    Formatting the links
+    */
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration:underline;
+    background-color: #fb953c;
+}
+/*
+    The format for the header of the app
+*/
+#topF{
+    position:fixed;
+    background:#ff6a00;
+    width:320px;
+    height:60px;
+}
+#topL{
+    padding:1px;
+    margin:auto;
+    text-align:left;
+}
+
+/*
+    The format for the middle section of the app
+*/
+#middle{
+    width:320px;
+    height:370px;
+    padding:1px;
+    position:relative;
+}
+#middle img{
+    margin-top:70px;
+    padding:20px;
+}
+#middle p{
+    font-size:20px;
+    margin-top:20px;
+    padding:10px;
+    border:1px solid black;
+    border-radius:5px;
+    background:#ff6a00;
+}
+/*
+    The format for the footer
+*/
+#bottom{
+    width:320px;
+    background:#ff6a00;
+    padding:1px;
+    height:50px;
+}
+#bottom p{
+    padding-top:12px;
+    font-size:12px;
+}
+/*
+    The format for the item options for the order page
+*/
+#tableFormat{
+    text-align:left;
+    margin:auto;    
+    height:370px;
+    position:relative;
+}
+#tableFormat table{
+    width:320px;
+    padding-top:100px;   
+}
+#tableFormat th{
+    padding-bottom:5px;
+}
+#tableFormat td{
+    padding:5px;
+    padding-top:7px;
+}
+/*
+    The format for the back home button
+*/
+.back{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:159px;
+    margin-top:60px;
+    position:absolute;
+    border:1px solid black;
+    background:#ab500f;
+}
+/*
+    The format for the continue to cart button
+*/
+.forward{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:158px;
+    margin-top:60px;
+    margin-left:160px;
+    position:absolute;
+    float:right;
+    border:1px solid black;
+    background:#ff6a00;
+}
+/*
+    The format for the delete item button
+*/
+.delete{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:159px;
+    margin-top:22px;
+    position:absolute;
+    border:1px solid black;
+    background:#ab500f;
+}
+/*
+    The format for the add item button
+*/
+.add{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:158px;
+    margin-top:22px;
+    margin-left:160px;
+    position:absolute;
+    float:right;
+    border:1px solid black;
+    background:#ff6a00;
+}
+/*
+    Format for the back to cart button on the payment page
+    */
+.backC{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:159px;
+    margin-top:60px;
+    position:absolute;
+    border:1px solid black;
+    background:#ab500f;
+}
+/*
+    Format for the form and the payment page
+    */
+#loginFormat{
+    text-align:left;
+    margin:auto;    
+    height:370px;
+    position:relative;
+}
+#forms{
+    padding-top:200px;
+    padding-left:20px;
+}
+span{
+    display:inline-block;
+    font-weight:bold;
+    width:100px;
+}
+/*
+    Format for the proceed button on the confirm page
+    */
+.proceed{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:158px;
+    margin-top:27px;
+    margin-left:80px;
+    position:absolute;
+    float:right;
+    border:1px solid black;
+    background:#ff6a00;
+}
+/*
+    the format for the orderNum page
+    */
+#orderFormat{
+    width:320px;
+    height:370px;
+    padding:1px;
+    position:relative;
+}
+#orderFormat img{
+    margin-top:70px;
+    padding:5px;
+}
+#orderFormat p{
+    margin-top:10px;
+}
+/*
+    format for the edit the order button
+    */
+.edit{
+    margin-left:-50%;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:159px;
+    margin-top:-38px;
+    position:absolute;
+    border:1px solid black;
+    background:#ab500f;
+}
+/*
+    The format for the make new order button
+*/
+.make{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:158px;
+    margin-top:-38px;
+    margin-left:-41.6%;
+    position:absolute;
+    float:right;
+    border:1px solid black;
+    background:#ff6a00;
+}
+
+

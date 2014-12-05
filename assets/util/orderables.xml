@@ -1,0 +1,107 @@
+<MENU>
+    
+    <DRINKS>
+        
+        <DRINK>
+            <TYPE>Coke</TYPE>
+            <SIZE>12oz</SIZE>
+            <PRICE>1.25</PRICE>
+            <SIZE>16oz</SIZE>
+            <PRICE>1.75</PRICE>
+        </DRINK>
+        
+        <DRINK>
+            <TYPE>Diet Coke</TYPE>
+            <SIZE>12oz</SIZE>
+            <PRICE>1.25</PRICE>
+            <SIZE>16oz</SIZE>
+            <PRICE>1.75</PRICE>
+        </DRINK>
+        
+        <DRINK>
+            <TYPE>Dr. Pepper</TYPE>
+            <SIZE>12oz</SIZE>
+            <PRICE>1.25</PRICE>
+            <SIZE>16oz</SIZE>
+            <PRICE>1.75</PRICE>
+        </DRINK>
+        
+        <DRINK>
+            <TYPE>Sprite</TYPE>
+            <SIZE>12oz</SIZE>
+            <PRICE>1.25</PRICE>
+            <SIZE>16oz</SIZE>
+            <PRICE>1.75</PRICE>
+        </DRINK>
+        
+        <DRINK>
+            <TYPE>Coffee</TYPE>
+            <SIZE>Small</SIZE>
+            <PRICE>1.00</PRICE>
+            <SIZE>Medium</SIZE>
+            <PRICE>1.50</PRICE>
+            <SIZE>Large</SIZE>
+            <PRICE>2.00</PRICE>
+        </DRINK>
+        
+        <DRINK>
+            <TYPE>Water</TYPE>
+            <SIZE>16oz</SIZE>
+            <PRICE>1.50</PRICE>
+            <SIZE>20oz</SIZE>
+            <PRICE>2.00</PRICE>
+        </DRINK>
+        
+    </DRINKS>
+    
+    <CANDIES>
+        
+        <CANDY>
+            <TYPE>Licorice Jelly Beans</TYPE>
+            <PRICE>.37</PRICE>
+            <UNIT>oz</UNIT>
+        </CANDY>
+        
+        <CANDY>
+            <TYPE>Chocolate-Chunks</TYPE>
+            <PRICE>.49</PRICE>
+            <UNIT>oz</UNIT>
+        </CANDY>
+        
+        <CANDY>
+            <TYPE>Strawberry Taffy</TYPE>
+            <PRICE>.49</PRICE>
+            <UNIT>oz</UNIT>
+        </CANDY>
+        
+        <CANDY>
+            <TYPE>Gummi Worms</TYPE>
+            <PRICE>.49</PRICE>
+            <UNIT>oz</UNIT>
+        </CANDY>
+        
+        <CANDY>
+            <TYPE>Pistachios</TYPE>
+            <PRICE>.49</PRICE>
+            <UNIT>oz</UNIT>
+        </CANDY>
+
+    </CANDIES>
+    
+    <SANDWICHES>
+        
+        <SANDWICH>
+            <TYPE>Ham and Swiss</TYPE>
+            <PRICE>5.59</PRICE>
+        </SANDWICH>
+        
+        <SANDWICH>
+            <TYPE>Roast-Beef and Parmesean</TYPE>
+            <PRICE>5.00</PRICE>
+        </SANDWICH>
+    
+    </SANDWICHES>
+    
+    
+                    
+</MENU>
